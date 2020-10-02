@@ -2,7 +2,7 @@
 
 Workshop files for link:https://www.rhino3d.com/[Rhino], link:https://www.grasshopper3d.com/[Grasshopper] with the link:https://github.com/visose/Robots[Robots plug-in].
 
-A custom json exporter is included in the Grasshopper definition for exporting for use with link:https://www.ros.org/[ROS] and link:https://github.com/PilzDE/pilz_industrial_motion[Pilz Industrial trajectory generation].
+NOTE: A custom json exporter is included in the Grasshopper definition for exporting for use with link:https://www.ros.org/[ROS] and link:https://github.com/PilzDE/pilz_industrial_motion[Pilz Industrial trajectory generation].
 
 == Setup
 
