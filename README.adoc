@@ -1,4 +1,4 @@
-= Grasshopper 
+= Grasshopper Robotics Workshop
 
 Workshop files for link:https://www.rhino3d.com/[Rhino], link:https://www.grasshopper3d.com/[Grasshopper] with the link:https://github.com/visose/Robots[Robots plug-in].
 
